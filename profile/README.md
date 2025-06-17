@@ -1,8 +1,11 @@
 ## Projects
 
-The ongoing projects are showing below:
+> The ongoing projects are showing below:
 
 ### PGuide Docs
+
+main-url: https://docs.pguide.studio
+cn-url-global-accelrate: https://docs.pguide.cloud
 
 ### PGuide Mangage
 
