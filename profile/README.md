@@ -35,7 +35,7 @@ https://cloud-native.pguide.studio
 
 ### Pixel University Town
 
-https://union-restore.pguide.studio
+https://maps.cqmua.cn/ur
 
 ### Project Manage
 
