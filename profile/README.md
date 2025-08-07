@@ -7,10 +7,6 @@
 - main-url: https://docs.pguide.studio
 - cn-url-global-accelrate: https://docs.pguide.cloud
 
-### PGuide Match
-
-Updating
-
 ### PGuide VIS
 
 https://vi.pguide.studio
@@ -23,7 +19,7 @@ https://when2eat.pguide.studio
 
 https://zhiyu.pguide.studio
 
-403: https://zhi-yu.ai
+304: https://zhi-yu.ai
 
 ### Smart TMC
 
@@ -31,11 +27,13 @@ https://smart-tmc.cqmu.edu.cn
 
 ### Cloud Native Manage
 
-https://cloud-native.pguide.studio
+https://cnt.pguide.studio
 
 ### Pixel University Town
 
-https://maps.cqmua.cn/ur
+https://maps.cqmua.cn
+
+304: sub servers
 
 ### Project Manage
 
@@ -43,19 +41,21 @@ https://projects.cqmu.edu.cn
 
 rsync://rsync.cqmu.edu.cn
 
-sftp://wireguard.pguide.studio
+sftp://vpn.pguide.studio
 
 ### Study Analytic System
 
 https://my.cqmu.edu.cn
 
+301: api.grades.cqmu.edu.cn
+
 ### PGuide SPD Manage
 
-https://med-spd.pguide.studio
+https://spd.pguide.studio
 
 ### round in hand
 
-https://round-in-hand.pguide.studio
+https://rih.pguide.studio
 
 ### PGuide CapsLock
 
